@@ -23,7 +23,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-modifications test TP
+modification ligne 26
 
 
 ## Executer les tests
